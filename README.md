@@ -31,9 +31,6 @@ A web-based rally timing coordinator for mobile strategy games. Calculate exact 
 
 ## Quick Start
 
-### Online (No Installation)
-Visit: **https://rally.gentoonix.com/rally-sync.html**
-
 ### Local Installation
 1. Download `rally-sync.html`
 2. Open in any modern web browser
