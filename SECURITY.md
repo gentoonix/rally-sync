@@ -4,7 +4,7 @@
 
 **Do NOT open a public GitHub issue for security vulnerabilities.**
 
-Instead, please email: security@gentoonix.com
+Instead, please email: admin@gentoonix.com
 
 Include:
 - Description of the vulnerability
